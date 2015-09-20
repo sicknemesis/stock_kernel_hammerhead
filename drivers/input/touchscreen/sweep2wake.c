@@ -81,8 +81,8 @@ MODULE_LICENSE("GPLv2");
 #define SWEEP_TIMEOUT		30
 #define TRIGGER_TIMEOUT		50
 #define WAKE_GESTURE		0x0b
-#define SWEEP_RIGHT		0x01
-#define SWEEP_LEFT		0x02
+#define SWEEP_RIGHT		0x02
+#define SWEEP_LEFT		0x01
 #define SWEEP_UP		0x04
 #define SWEEP_DOWN		0x08
 #define VIB_STRENGTH		20
